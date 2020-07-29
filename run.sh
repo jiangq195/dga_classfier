@@ -1,3 +1,4 @@
+python divide_train_test.py
 python tld_appender.py
 python gram_freq_rank.py
 python feat_n_gram_rank_extractor.py
@@ -6,3 +7,4 @@ echo "have you downloaded https://github.com/rrenaud/Gibberish-Detector ? put gi
 python feat_extractor.py
 python feat_normalizer.py
 python feat_vectorizer.py
+echo "Finish!"

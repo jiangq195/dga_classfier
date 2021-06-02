@@ -10,5 +10,5 @@ requests-file==1.5.1
 scikit-learn==0.19.1
 six==1.15.0
 tldextract==2.2.2
-urllib3==1.25.10
+urllib3==1.26.5
 wincertstore==0.2
